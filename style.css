@@ -1,0 +1,55 @@
+h1{
+    font-size: 50px;
+}
+h2{font-size: 40px;}
+.nameorange{
+    color:orangered
+}
+section{
+ display:flex
+}
+.half-width{
+    width: 50%;
+    padding: 2%;
+}
+.half-width img{
+  width: 80%; 
+  
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    background-image: linear-gradient(orangered,tomato);
+    padding: 10px 40px;
+    border-radius:5px;
+    color:white;
+    font-weight: 700;
+    
+    
+}
+.top-banar{background-image: url(C:\Website making\developer-portfolio-master\developer-portfolio-master\images/top-banner.png);}
+
+.flexible{display:flex}
+.box{box-shadow: 10px 10px 30px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+}
+.experience-area{background-image: url(C:\Website making\developer-portfolio-master\developer-portfolio-master\images/exp-bg.png);}
+
+#line1{
+    border-left: 7px solid;
+    border-color: blue cyan;
+    
+    
+}
+
+#line2{
+    border-left: 7px solid;
+    border-color: brown green;
+    border-image-slice: 2px;
+}
+footer p {
+    text-align: center;
+}
